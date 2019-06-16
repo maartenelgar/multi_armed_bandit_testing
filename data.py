@@ -1,7 +1,8 @@
 import pyasx
 import pandas as pd
 
-
+import pyasx.data.companies
+import pyasx.data.securities
 
 class ASX(object):
 
